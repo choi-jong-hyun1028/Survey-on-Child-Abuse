@@ -1,1 +1,13 @@
 # Survey-on-Child-Abuse
+![슬라이드1](https://user-images.githubusercontent.com/81130130/140272600-a97c1c57-ada0-40ca-99d3-e6ccff1c4ac9.PNG)
+![슬라이드2](https://user-images.githubusercontent.com/81130130/140272604-330ef63c-98f2-4d0b-bda0-9f3b51614759.PNG)
+![슬라이드3](https://user-images.githubusercontent.com/81130130/140272605-4321c4a0-45ee-49ab-b675-14febcfa74c3.PNG)
+![슬라이드4](https://user-images.githubusercontent.com/81130130/140272607-bc898b2c-0f52-4d5d-b454-854e91aa87de.PNG)
+![슬라이드5](https://user-images.githubusercontent.com/81130130/140272610-762b9b14-e774-454a-bd10-ee6408438f25.PNG)
+![슬라이드6](https://user-images.githubusercontent.com/81130130/140272612-e1c04a3e-c55c-4ae1-844f-fc075df1b66b.PNG)
+![슬라이드7](https://user-images.githubusercontent.com/81130130/140272613-fe81a8ea-d912-4bda-86a0-6ac104c04cd2.PNG)
+![슬라이드8](https://user-images.githubusercontent.com/81130130/140272616-ec755519-7683-4e79-a8e1-06726503ae9a.PNG)
+![슬라이드9](https://user-images.githubusercontent.com/81130130/140272618-34e7977a-a017-46fc-a685-7f0ef1e2bc86.PNG)
+![슬라이드10](https://user-images.githubusercontent.com/81130130/140272620-b014310f-a7ed-401b-ac3a-da49afceea3b.PNG)
+![슬라이드11](https://user-images.githubusercontent.com/81130130/140272623-aa6dc2c9-2945-467b-8c94-eefbf3171cfb.PNG)
+![슬라이드12](https://user-images.githubusercontent.com/81130130/140272624-5464b095-3c27-46b3-bfd3-477f27317350.PNG)
